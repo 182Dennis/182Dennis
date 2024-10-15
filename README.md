@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @182Dennis a junior developer.
+- 👀 I’m interested in I am very interested in gaining a deep understanding of programming, especially in artificial intelligence.
+- 🌱 I’m currently learning advanced Python and artificial intelligence.
+- 💞️ I’m looking to collaborate on nothing yet.
